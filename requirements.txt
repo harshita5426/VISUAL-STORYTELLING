@@ -1,0 +1,13 @@
+streamlit
+sqlalchemy
+torch
+torchvision
+deep-translator
+google-generativeai
+scikit-learn
+Pillow
+streamlit==1.44.1
+pandas
+numpy
+sqlalchemy
+
